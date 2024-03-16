@@ -1,0 +1,12 @@
+{
+    "name":"ipl_extension",
+    "version":"1.0.00",
+    "description":"just making it out of curiosity how it works",
+    "manifest_version":3,
+    "author":"Nikhil_verma",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"ipl_extension"
+    }
+
+}
